@@ -1,0 +1,47 @@
+/* .arena {
+  margin: 3px auto;
+  padding: 0;
+  display: flex;
+  flex-flow: row wrap;
+  width: calc(100vmin - 10px);
+  height: calc(100vmin - 10px);
+} */
+
+.sector__line {
+  /* margin: 13px auto; */
+  /* display:flex;
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  width: 50%;
+  overflow: hidden;
+  background: #4679BD; */
+
+  display: flex;
+  margin: 13px auto;
+  padding: 0;
+  flex-flow: row wrap;
+  position: relative;
+  width: calc(100vmin );
+  height: calc(100vmin -);
+
+}
+
+.sector__line1 {
+  display: flex;
+  margin: 13px auto;
+  padding: 0;
+  flex-flow: row wrap;
+  position: relative;
+  width: calc(200vmin);
+  height: calc(200vmin -);
+}
+.sector__line2 {
+  display: flex;
+  margin: 13px auto;
+  padding: 0;
+  flex-flow: row wrap;
+  position: relative;
+  width: calc(300vmin);
+  height: calc(300vmin -);
+}
